@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-    <title>Categories - From the Ground Up</title>
+    <title>strategy - From the Ground Up</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -10,7 +10,8 @@
 
 
 
-        <meta name="author" content="Katie Planey" />
+    <meta name="author" content="Katie Planey" />
+    <meta name="keywords" content="strategy" />
 
     <!-- Open Graph tags -->
         <meta property="og:site_name" content="From the Ground Up" />
@@ -50,9 +51,6 @@ From the Ground Up            </a>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                         <li >
-                            <a href="http://kplaney.github.io/category/about.html">About</a>
-                        </li>
-                        <li >
                             <a href="http://kplaney.github.io/category/startup.html">Startup</a>
                         </li>
             </ul>
@@ -67,41 +65,23 @@ From the Ground Up            </a>
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
-    <section id="categories">
-      <h1>All Categories for From the Ground Up</h1>
-        <div class="panel-group" id="accordion">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-about">About <span class="badge pull-right">1</span></a>
-                    </h4>
+            <article>
+                <h2><a href="http://kplaney.github.io/one-year-in.html">One year into a biotech startup: what is top of my mind</a></h2>
+                <div class="summary"><p>Reflecting on the nonlinear path of a startup</p>
+                    <a class="btn btn-default btn-xs" href="http://kplaney.github.io/one-year-in.html">more ...</a>
                 </div>
-                <div id="collapse-about" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <p><span class="categories-timestamp"><time datetime="2018-01-15T01:42:00-08:00">Mon 15 January 2018</time></span> <a href="http://kplaney.github.io/about.html">About this blog(ger)</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-startup">startup <span class="badge pull-right">2</span></a>
-                    </h4>
-                </div>
-                <div id="collapse-startup" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <p><span class="categories-timestamp"><time datetime="2018-01-15T02:10:00-08:00">Mon 15 January 2018</time></span> <a href="http://kplaney.github.io/ip-part-1.html">IP primer for biotech startups</a></p>
-                        <p><span class="categories-timestamp"><time datetime="2017-12-28T04:45:00-08:00">Thu 28 December 2017</time></span> <a href="http://kplaney.github.io/one-year-in.html">One year into a biotech startup: what is top of my mind</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
+            </article>
+            <hr/>
 
-    </section>
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>
-<!-- Sidebar -->
+<div id="aboutme">
+    <p>
+      <strong>About Katie Planey</strong><br/>
+        /code/kplaney.github.io-src/ABOUT_ME.md
+    </p>
+</div><!-- Sidebar -->
 <section class="well well-sm">
   <ul class="list-group list-group-flush">
 
@@ -133,7 +113,7 @@ From the Ground Up            </a>
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2018 Katie Planey
+         <div class="col-xs-10">&copy; 2017 Katie Planey
             &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
